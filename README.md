@@ -1,1 +1,1 @@
-# Simple-Linear-Regressions
+# Simple-Linear-Regressions-practical-implementations
